@@ -9,5 +9,6 @@ namespace TestProjekt
     class Hund
     {
         public int Vikt { get; set; }
+        public int MyProperty { get; set; }
     }
 }
