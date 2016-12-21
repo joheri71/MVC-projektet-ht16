@@ -9,5 +9,6 @@ namespace TestProjekt
     class Djur
     {
         public int MittDjur { get; set; }
+        public string Namn { get; set; }
     }
 }
