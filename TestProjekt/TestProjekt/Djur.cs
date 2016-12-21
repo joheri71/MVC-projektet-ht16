@@ -10,5 +10,6 @@ namespace TestProjekt
     {
         public int MittDjur { get; set; }
         public string Namn { get; set; }
+        public int Age { get; set; }
     }
 }
