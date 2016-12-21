@@ -10,5 +10,6 @@ namespace TestProjekt
     {
         public int Vikt { get; set; }
         public int MyProperty { get; set; }
+        public int myprop { get; set; }
     }
 }
